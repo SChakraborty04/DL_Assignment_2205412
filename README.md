@@ -88,6 +88,10 @@ The script automatically generates and saves the following analysis plots:
 4.  **View Results:**
     Run all cells in the notebook. The training process will begin, and all 8 output files (model weights, plots, and results) will be saved to the root directory.
 
+
+5.  **DEMO Video:**
+    [Watch the demo video](https://github.com/SChakraborty04/DL_Assignment_2205412/blob/main/demo.mov)
+    
 ## 📂 Files Generated
 
 Upon successful execution, the following files will be created:
