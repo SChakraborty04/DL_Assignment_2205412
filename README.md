@@ -90,7 +90,7 @@ The script automatically generates and saves the following analysis plots:
 
 
 5.  **DEMO Video:**
-    [Watch the demo video](https://ik.imagekit.io/0ms2qhnkm/demo.mp4?updatedAt=1762232541120)
+    [![Click to Watch Video Demo](https://ik.imagekit.io/0ms2qhnkm/demo.mp4?updatedAt=1762232541120)](https://ik.imagekit.io/0ms2qhnkm/demo.mp4?updatedAt=1762232541120)
 ## 📂 Files Generated
 
 Upon successful execution, the following files will be created:
